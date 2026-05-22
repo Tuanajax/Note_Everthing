@@ -33,8 +33,6 @@ Dự án **Bắc Hùng Vương** của bạn có nhiều file dữ liệu CSV kh
 ```
 
 ^d64be4
-
-
 - [ ] Viết script phân tích dữ liệu #data-analyst (@05-05-2026)
 > "Hành trình chinh phục CFA & Master Data Analytics" ^d598dc
 
