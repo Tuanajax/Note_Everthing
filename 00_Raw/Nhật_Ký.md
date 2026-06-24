@@ -32,8 +32,8 @@ status:
   - #San_nên Đắp_cát #lô_18 có #Đường_dạo chiếm chỗ:
   - #Lô_9 #Đắt_cát dưới #đắp_đất ở trên #Đường_dạo
   - #Lô_20 #Đắp_cát #trồng_cây #bãi_đỗ_xe
-  - 
-  - 
+
+
 
 
  

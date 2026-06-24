@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Resources/CIA/Section A - Foundations of Internal Auditing (35%).md",
+                "file": "00_Raw/Nhật_Ký.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section A - Foundations of Internal Auditing (35%)"
+              "title": "Nhật_Ký"
             }
           },
           {
-            "id": "429128dcef480534",
+            "id": "fc82bed5b9f180f7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
+                "file": "90_System/Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Template"
             }
           }
         ],
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PMS100",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,26 +222,29 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "f2541136ea59cce7",
+  "active": "fc82bed5b9f180f7",
   "lastOpenFiles": [
-    "00_Raw/Diary.md",
-    "Untitled 1.base",
+    "2026-06-24.md",
     "90_System/Template.md",
-    "Interest_Rate.md",
-    "30_Resources/Pháp_ly/Luật_Xây_dựng_Hợp_nhất.md",
-    "30_Resources/CIA/Section A - Foundations of Internal Auditing (35%).md",
-    "30_Resources/CIA/Part 1- Internal Auditing Fundermental.md",
-    "30_Resources/CIA/Global Internal Audit Standards.md",
-    "30_Resources/Financial/Forex.md",
-    "30_Resources/CIA/letter.md",
-    "Untitled.base",
-    "Untitled.md",
-    "30_Resources/Financial/Economics.md",
     "30_Resources/Financial/Economics-cycle.md",
-    "Python_Skills_AI.md",
+    "30_Resources/Financial/Economics.md",
+    "00_Raw/Tuần 8 thg 6 - 12 thg 6 năm 2026.md",
+    "00_Raw/Nhật_Ký.md",
     "30_Resources/CIA/Section D. Fraud Risks (15%).md",
     "30_Resources/CIA/Section C. Governance, Risk Management, and Control (30%).md",
     "30_Resources/CIA/Section B - Ethics and Professionalism (20%).md",
+    "30_Resources/CIA/Section A - Foundations of Internal Auditing (35%).md",
+    "30_Resources/CIA/Part 1- Internal Auditing Fundermental.md",
+    "30_Resources/CIA/Global Internal Audit Standards.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Public-Debt.md",
+    "Interest_Rate.md",
+    "[Nhật_Ký.md",
+    "30_Resources/CIA/letter.md",
+    "30_Resources/Financial/Forex.md",
+    "30_Resources/Pháp_ly/Luật_Xây_dựng_Hợp_nhất.md",
+    "Python_Skills_AI.md",
     "Section A - Foudations of Internal Auditing (35%).md",
     "30_Resources/CIA",
     "90_System/Luật Xây dựng 2025.md",
@@ -250,14 +255,12 @@
     "2026-05-04.md",
     "30_Resources/Pháp_ly",
     "30_Resources/# Template.md",
-    "CFA/Demo.md",
     "90_System",
     "40_Archive",
     "30_Resources",
     "20_Areas",
     "10_Projects",
     "Untitled.canvas",
-    "CFA/Demo 2.md",
     "Untitled/Untitled.canvas"
   ]
 }

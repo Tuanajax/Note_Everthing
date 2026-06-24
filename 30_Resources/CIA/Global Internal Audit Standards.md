@@ -7,6 +7,7 @@
 # 2.Domain III: Governing the internal Audit Funtion
 - Principle 6. Authorized by the board
 	- Standard 6.1 Internal Audit #Mandate
+	- 
 	    >[!Note] Essential Conditions
 	    >	#CAE
 	    >	
@@ -18,4 +19,4 @@
 [[Global Internal Audit Standards#^Domain-1|Domain1]]
 
 
-[^1]: Domain-I
+[[Nhật_Ký]]
