@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_System/Template.md",
+                "file": "2026-06-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "2026-06-24"
             }
           }
         ],
@@ -224,8 +224,10 @@
   },
   "active": "fc82bed5b9f180f7",
   "lastOpenFiles": [
-    "2026-06-24.md",
     "90_System/Template.md",
+    "Untitled0.ipynb",
+    "Code.ipynb",
+    "2026-06-24.md",
     "30_Resources/Financial/Economics-cycle.md",
     "30_Resources/Financial/Economics.md",
     "00_Raw/Tuần 8 thg 6 - 12 thg 6 năm 2026.md",
@@ -254,12 +256,9 @@
     "Bắc Hùng Vương.md",
     "2026-05-04.md",
     "30_Resources/Pháp_ly",
-    "30_Resources/# Template.md",
     "90_System",
     "40_Archive",
     "30_Resources",
-    "20_Areas",
-    "10_Projects",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
